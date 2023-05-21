@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Diego Vergara a Fullstack Developer, i'm a Fullstack developer with complete knowledge of JavaScript-based technologies, especially React and NodeJS.
+
+I'm currently working on Flow a payment gateway from Chile, if you wanna see more about my projects and my self take a look of my [website](https://davc93.dev).
 <!--
 **davc93/davc93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
